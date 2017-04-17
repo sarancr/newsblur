@@ -3,6 +3,9 @@
 ## Objective
 Demonstrate the Android application model components using open sourced NewsBlur app.
 
+## Live Site
+https://newsblur.com/
+
 ## Summary
 - NewsBlur app is a open sourced app
 - Available in Google play store
