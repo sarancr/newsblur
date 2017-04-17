@@ -1,0 +1,20 @@
+body, span {
+	background-color: #1A1A1A !important;
+	color: #FFF !important;
+}
+
+a, a span {
+	color: #319DC5 !important;
+}
+
+a:visited, a:visited span {
+	color: #319DC5 !important;
+}
+
+code {
+    background-color: #4C4C4C;
+}
+
+pre, blockquote {
+    background-color: #4C4C4C;
+}
